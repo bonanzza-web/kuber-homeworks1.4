@@ -136,7 +136,9 @@ ubuntu@server-1:~/kuber$ micro exec mult -- curl nginx-svc:9002
 WBITT Network MultiTool (with NGINX) - nginx-final-b66867677-tq77n - 10.1.125.203 - HTTP: 8080 , HTTPS: 443 . (Formerly praqma/network-multitool)
 
 ```
-
+Deployment https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/docs/one-final-deploy.yaml    
+Service https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/docs/nginx-svc.yaml    
+Pod https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/docs/mult.yaml    
 
 ------
 
@@ -185,6 +187,14 @@ WBITT Network MultiTool (with NGINX) - nginx-final-b66867677-tq77n - 10.1.125.20
 
 ```
 
+Screenshots     
+    
+![alt text](https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/img/nginx.png)    
+
+![alt text](https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/img/multitools.png)    
+
+
+Service NodePort https://github.com/bonanzza-web/kuber-homeworks1.4/blob/main/docs/nginx-nodeport.yaml
 
 ------
 
